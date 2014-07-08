@@ -5,7 +5,7 @@
 
 *This sample is part of the [Developer-Autodesk/Autodesk-View-and-Data-API-Samples](https://github.com/Developer-Autodesk/autodesk-view-and-data-api-samples) repository.*
 
-YSimplest way to add a 3D viewer into your website
+The Simplest way to add a 3D viewer into your website
 
 If all you want is to embed a 3D viewer into your website, the simplest way is demoed in this sample. 
 
