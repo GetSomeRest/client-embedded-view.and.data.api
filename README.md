@@ -1,13 +1,13 @@
 # client-embedded-view.and.data.api
 
-The Simplest way to add a 3D viewer into your website.
+The simplest way to add a 3D viewer into your website.
 
 
 ## Description
 
 *This sample is part of the [Developer-Autodesk/Autodesk-View-and-Data-API-Samples](https://github.com/Developer-Autodesk/autodesk-view-and-data-api-samples) repository.*
 
-If all you want is to embed a 3D viewer into your website, the simplest way is demoed in this sample.
+If all you want is to embed a 3D viewer into your website, the simplest way is demonstrated in this sample.
 
 Limitation: It is difficult to get the viewer object and manipulate the viewer with viewer client side API. If you want to have more control of the viewer, you should consider adding viewer with viewer client API and div tag.
 
