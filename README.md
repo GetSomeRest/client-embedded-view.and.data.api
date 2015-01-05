@@ -2,6 +2,10 @@
 
 The simplest way to add a 3D viewer into your website.
 
+## Update
+
+Now you have more convenient way to embed your 3D content into your own website, go to [Autodesk360] (http://autodesk360.com), upload your model and share it, you will get the iframe HTML code. Copy and paste the code snippet to your websit, that's it. So this sample is retired. It is not maintained any more. 
+
 
 ## Description
 
