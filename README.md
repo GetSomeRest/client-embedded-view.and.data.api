@@ -1,3 +1,5 @@
+# Deprecated sample - not maintained anymore (Summer 2016)
+
 # client-embedded-view.and.data.api
 
 The simplest way to add a 3D viewer into your website.
